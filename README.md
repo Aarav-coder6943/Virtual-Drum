@@ -125,9 +125,7 @@ Inspired by rhythm games, motion tracking, and the idea of turning random comput
 
 Because why buy drums when your webcam can become one 💀
 
-📜 License
 
-This project is open-source under the MIT License.
 
 🙌 Acknowledgements
 Google
